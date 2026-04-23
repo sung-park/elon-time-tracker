@@ -1,0 +1,25 @@
+Tesla Q4 2024 Earnings Call Transcript
+Date: January 29, 2025
+
+## Elon Musk on Full Self-Driving (FSD)
+
+**Launch Timeline:**
+Musk stated: "we're going to be launching unsupervised full self-driving as a paid service in Austin in June." He expressed confidence in releasing unsupervised FSD in California and "many regions" nationwide by year-end, with broader expansion expected in 2025.
+
+**Safety Standards:**
+The company targets safety "significantly above the average human driver." According to their Q4 vehicle safety report, Tesla achieved "one crash for every 5.9 million miles driven" compared to "700,000 miles without autopilot" — approximately 8.5 times safer.
+
+**Technical Approach:**
+Musk emphasized Tesla's vision-only approach, rejecting LiDAR: "humans drive just with passive visual" and cameras paired with AI replicate this biological neural net approach.
+
+## Optimus Humanoid Robot
+
+**Production Goals:**
+The "normal internal plan calls for roughly 10,000 Optimus robots" this year, though Musk acknowledged they'd likely build "several thousand." Production version 2 expected mid-2025, with external sales potentially beginning "second half of next year."
+
+**Long-Term Potential:**
+Musk predicted Optimus could eventually reach costs "less than $20,000" at 1+ million annual units, describing the opportunity as potentially exceeding $10 trillion in revenue.
+
+## Manufacturing & Constraints
+
+Current bottleneck: battery production rather than demand. The company faces temporary Q1 challenges from Model Y retooling across all factories simultaneously.

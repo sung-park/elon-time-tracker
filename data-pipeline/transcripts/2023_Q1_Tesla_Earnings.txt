@@ -1,0 +1,19 @@
+Tesla Q1 2023 Earnings Call Transcript
+Date: April 19, 2023
+
+## Cybertruck
+Details saved for "Cybertruck handover, hopefully around end of Q3" (2023).
+Orders in excess of production.
+
+## FSD
+"I hesitate to say this, but I think we'll do it this year" (full autonomy in 2023).
+Current Hardware 3 can achieve full autonomy across existing fleet.
+Over 150 million miles of FSD beta data collected.
+
+## Dojo Supercomputer
+Potential for "order of magnitude improvement in the cost of training."
+Could become a sellable service similar to AWS.
+
+## Battery
+Corpus Christi lithium refinery breaks ground May 2023, commissioning target end of year.
+Austin cathode facility: target to produce first material before end of 2023.

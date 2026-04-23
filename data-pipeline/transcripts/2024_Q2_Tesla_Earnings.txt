@@ -1,0 +1,33 @@
+Tesla Q2 2024 Earnings Call Transcript
+Date: July 23, 2024
+
+## Elon Musk's Future Plans & Timelines
+
+**Full Self-Driving & Robotaxi:**
+- "Version 12.5 has five times the parameters of 12.4" and merged highway/city stacks
+- Robotaxi unveil moved to October 10th for improvements
+- Unsupervised FSD possible "by the end of this year" but "next year seems highly probable"
+
+**Roadster:**
+"We've completed most of the engineering...expect to be in production with Roadster next year"
+
+**Optimus Robot:**
+- Production Version 1 launching "early next year" for internal Tesla use
+- "Several thousand Optimus robots" expected by end of 2025 in factories
+- Production Version 2 ramping in 2026 for external customers
+
+**AI & Dojo:**
+"We are going to double down on Dojo" to compete with NVIDIA, given GPU supply constraints
+
+**Giga Mexico:**
+Postponed pending tariff clarity under potential Trump administration
+
+**4680 Battery:**
+- Currently producing "more than 1,400 cybertrucks of 4680 cells a week"
+- Dry cathode production launch targeted for Q4 2024
+
+**Distributed Computing:**
+Tesla AI5 hardware coming "end of next year" with 100+ hours weekly compute capacity per vehicle
+
+**Valuation Perspective:**
+Long-term Optimus valuation could be "several times" the $5 trillion autonomous vehicle estimate

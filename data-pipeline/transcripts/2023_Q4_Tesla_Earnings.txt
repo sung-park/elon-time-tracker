@@ -1,0 +1,23 @@
+Tesla Q4 2023 Earnings Call Transcript
+Date: January 24, 2024
+
+## Production & Deliveries
+Elon Musk highlighted record achievements: "We achieved record production and deliveries of over 1.8 million vehicles" with Q4 producing at "almost 2 million cars a year" annualized rate.
+
+## Next-Generation Vehicle Timeline
+Regarding the next-gen platform, Musk stated: "our current schedule says we will start production toward the end of 2025, so sometime in the second half."
+
+## Manufacturing Innovation
+Musk emphasized revolutionary manufacturing: "This is a revolutionary manufacturing system, significant...far more advanced than any other automotive manufacturing system."
+
+## Full Self-Driving (FSD) Version 12
+He described the breakthrough: "We replaced 330,000 lines of C++ code with neural nets" and noted FSD will roll out to "over 400,000 vehicles in North America."
+
+## Optimus Humanoid Robot
+On the robot project, Musk stated potential value could "far exceed the value of everything else that Tesla combined" and indicated "we will be updating the public with progress on Optimus every few months."
+
+## Cybertruck Demand
+He characterized demand as "production-constrained, not demand-constrained" and projected "roughly a quarter million Cybertrucks a year in North America."
+
+## Energy Storage Growth
+The business doubled deployments with "nearly 15 gigawatt hours" delivered in 2023 versus 6.5 the prior year.

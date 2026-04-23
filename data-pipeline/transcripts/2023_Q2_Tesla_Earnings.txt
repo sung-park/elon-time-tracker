@@ -1,0 +1,24 @@
+Tesla Q2 2023 Earnings Call Transcript
+Date: July 19, 2023
+
+## Production Targets
+1.8 million vehicles targeted for 2023.
+Cybertruck deliveries expected later in 2023, high-volume production next year (2024).
+
+## FSD
+Claims FSD will be "better than human by the end of this year" (2023).
+Goal: "10 times safer than the average human driver."
+
+## Optimus Robot
+Production candidate with all Tesla-designed actuators expected around November 2023.
+Robot will perform "useful things" in Tesla factories "sometime next year" (2024).
+
+## Dojo Training Computer
+Plans to spend "well over $1 billion" through end of 2024 on Dojo.
+Targets 100 exaFLOPs of in-house training capability by end of next year (2024).
+
+## Robotaxi
+"Quasi-infinite demand" with manufacturing to achieve "highest units per hour of any vehicle production ever."
+
+## 4680 Battery
+Production increasing 80% Q2 over Q1 in Texas.

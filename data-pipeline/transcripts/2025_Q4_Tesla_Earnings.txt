@@ -1,0 +1,33 @@
+Tesla Q4 2025 Earnings Call Transcript
+Date: January 28, 2026
+
+## Elon Musk's Major Announcements
+
+**Model S/X Production End:**
+"We expect to wind down S and X production next quarter and basically stop production of Model S and X next quarter."
+
+**Optimus Factory Plans:**
+Fremont's S/X line will convert to Optimus robot manufacturing with "a long-term goal of having a million units a year."
+
+**CyberCab Production:**
+"We expect to start production in April," with expectations it will eventually exceed all other vehicle production combined.
+
+**Robotaxi Fleet Status:**
+"We are well over 500 [robotaxi] vehicles at this point between the Bay Area and Austin," doubling monthly.
+
+**FSD Unsupervised Operations:**
+"FSD is 100% unsupervised. We obviously have cars operating with no one in them...in Austin right now."
+
+**Semiconductor Strategy:**
+Musk emphasized Tesla must build "TerraFab" — an in-house chip fabrication facility integrating logic, memory, and packaging — to avoid being "supplier limited."
+
+**AI5 Chip Development:**
+Spending "pretty much every Saturday" on AI5 chip design, calling it "number one most critical thing."
+
+**Future Vehicle Production:**
+"Long-term, the only vehicles that we'll make will be autonomous vehicles with the exception of the next generation Roadster."
+
+## Financial Highlights
+- CapEx forecast exceeds $20 billion for 2026
+- Automotive margins improved to 17.9%
+- FSD paid customers reached 1.1 million globally

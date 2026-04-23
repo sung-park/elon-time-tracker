@@ -1,0 +1,1002 @@
+[
+  {
+    "date_announced": "2020-04",
+    "claim": "미국 내 다음 기가팩토리 위치 발표",
+    "target_date": "2020-07",
+    "actual_date": "2020-07",
+    "delta_months": 0,
+    "status": "achieved"
+  },
+  {
+    "date_announced": "2020-04",
+    "claim": "FSD 구독 서비스 출시",
+    "target_date": "2020-12",
+    "actual_date": "2021-07",
+    "delta_months": 7,
+    "status": "achieved"
+  },
+  {
+    "date_announced": "2020-04",
+    "claim": "개입 없는 완전 자율주행 (집-회사) 가능",
+    "target_date": "2020-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2020-04",
+    "claim": "연말까지 주당 1,000개 태양광 루프 설치",
+    "target_date": "2020-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2020-07",
+    "claim": "FSD 완전자율주행 기능 완성",
+    "target_date": "2020-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2020-07",
+    "claim": "FSD 완전자율주행 기능 (신호등, 정지, 회전 포함) 출시",
+    "target_date": "2020-12",
+    "actual_date": "2020-10",
+    "delta_months": -2,
+    "status": "achieved"
+  },
+  {
+    "date_announced": "2020-07",
+    "claim": "중국 모델 3용 LFP 배터리 팩 양산",
+    "target_date": "2020-12",
+    "actual_date": "2020-12",
+    "delta_months": 0,
+    "status": "achieved"
+  },
+  {
+    "date_announced": "2020-07",
+    "claim": "텔레매틱스 기반 테슬라 보험 여러 주에서 출시",
+    "target_date": "2020-12",
+    "actual_date": "2021-10",
+    "delta_months": 10,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2020-07",
+    "claim": "테슬라 세미 생산 시작 (내부 운송용)",
+    "target_date": "2021-12",
+    "actual_date": "2022-12",
+    "delta_months": 12,
+    "status": "achieved"
+  },
+  {
+    "date_announced": "2020-10",
+    "claim": "2020년 말까지 50만 대 차량 인도",
+    "target_date": "2020-12",
+    "actual_date": "2020-12",
+    "delta_months": 0,
+    "status": "achieved"
+  },
+  {
+    "date_announced": "2020-10",
+    "claim": "FSD 베타를 올해 말(2020년)까지 더 광범위하게 출시",
+    "target_date": "2020-12",
+    "actual_date": "2021-10",
+    "delta_months": 10,
+    "status": "achieved"
+  },
+  {
+    "date_announced": "2020-10",
+    "claim": "베를린 및 오스틴 공장에서 내년(2021년)부터 차량 인도 시작",
+    "target_date": "2021-12",
+    "actual_date": "2022-03",
+    "delta_months": 3,
+    "status": "achieved"
+  },
+  {
+    "date_announced": "2020-10",
+    "claim": "내년(2021년) 말까지 일부 사이버트럭 인도",
+    "target_date": "2021-12",
+    "actual_date": "2023-11",
+    "delta_months": 23,
+    "status": "achieved"
+  },
+  {
+    "date_announced": "2020-10",
+    "claim": "몇 년 내에 4680 배터리 셀 비용 절반, 자본 지출 1/3 이하 달성",
+    "target_date": "2024-10",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2020-10",
+    "claim": "2030년까지 연간 2천만 대 차량 생산 목표",
+    "target_date": "2030-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "pending"
+  },
+  {
+    "date_announced": "2021-01",
+    "claim": "FSD 구독 서비스 출시",
+    "target_date": "2021-03",
+    "actual_date": "2021-07",
+    "delta_months": 4,
+    "status": "achieved"
+  },
+  {
+    "date_announced": "2021-01",
+    "claim": "FSD가 2021년까지 인간보다 더 높은 신뢰도로 스스로 운전할 것",
+    "target_date": "2021-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2021-01",
+    "claim": "2021년 하반기에 다른 OEM에 FSD 라이선스 제공 개방",
+    "target_date": "2021-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2021-01",
+    "claim": "2021년 말까지 사이버트럭 소량 인도",
+    "target_date": "2021-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2021-01",
+    "claim": "기가 베를린 및 기가 텍사스 2021년 생산 시작",
+    "target_date": "2021-12",
+    "actual_date": "2022-04",
+    "delta_months": 4,
+    "status": "achieved"
+  },
+  {
+    "date_announced": "2021-01",
+    "claim": "2021년 50% 장기 성장률(CAGR)을 크게 초과할 수 있음",
+    "target_date": "2021-12",
+    "actual_date": "2021-12",
+    "delta_months": 0,
+    "status": "achieved"
+  },
+  {
+    "date_announced": "2021-01",
+    "claim": "사이버트럭 2022년 대량 생산 시작",
+    "target_date": "2022-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2021-01",
+    "claim": "4680 배터리 셀 2022년까지 100GWh 생산 능력 달성",
+    "target_date": "2022-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2021-01",
+    "claim": "4680 배터리 셀 3년 내 50% 비용 절감 및 50% 주행거리 개선",
+    "target_date": "2024-01",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2021-04",
+    "claim": "모델 S/X 인도 \"다음 달\" (2021년 5월) 시작",
+    "target_date": "2021-05",
+    "actual_date": "2021-06",
+    "delta_months": 1,
+    "status": "achieved"
+  },
+  {
+    "date_announced": "2021-04",
+    "claim": "모델 X 3분기 2021년까지 고볼륨 생산 목표",
+    "target_date": "2021-09",
+    "actual_date": "2022-03",
+    "delta_months": 6,
+    "status": "achieved"
+  },
+  {
+    "date_announced": "2021-04",
+    "claim": "베를린 및 오스틴 공장에서 \"올해\" (2021년) 초기 제한적 생산",
+    "target_date": "2021-12",
+    "actual_date": "2021-12",
+    "delta_months": 0,
+    "status": "achieved"
+  },
+  {
+    "date_announced": "2021-04",
+    "claim": "모델 Y가 2022년까지 전 세계에서 가장 많이 팔리는 자동차 또는 트럭이 될 것",
+    "target_date": "2022-12",
+    "actual_date": "2023-03",
+    "delta_months": 3,
+    "status": "achieved"
+  },
+  {
+    "date_announced": "2021-04",
+    "claim": "텍사스 및 베를린 공장에서 \"내년\" (2022년) 대량 생산",
+    "target_date": "2022-12",
+    "actual_date": "2022-06",
+    "delta_months": 0,
+    "status": "achieved"
+  },
+  {
+    "date_announced": "2021-07",
+    "claim": "기가 텍사스 및 베를린 모델 Y 제한적 생산",
+    "target_date": "2021-12",
+    "actual_date": "2021-12",
+    "delta_months": 0,
+    "status": "achieved"
+  },
+  {
+    "date_announced": "2021-07",
+    "claim": "사이버트럭 베타 단계 진입",
+    "target_date": "2021-12",
+    "actual_date": "2022-03",
+    "delta_months": 3,
+    "status": "achieved"
+  },
+  {
+    "date_announced": "2021-07",
+    "claim": "2022년 말까지 4680 배터리 셀 연간 100GWh 생산 목표의 50% 이상 달성",
+    "target_date": "2022-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2021-07",
+    "claim": "공급업체들이 2022년에 생산량을 두 배로 늘릴 것",
+    "target_date": "2022-12",
+    "actual_date": "2022-12",
+    "delta_months": 0,
+    "status": "achieved"
+  },
+  {
+    "date_announced": "2021-10",
+    "claim": "오스틴 및 베를린 공장 첫 생산 차량 조립",
+    "target_date": "2021-12",
+    "actual_date": "2021-12",
+    "delta_months": 0,
+    "status": "achieved"
+  },
+  {
+    "date_announced": "2021-10",
+    "claim": "4680 배터리 셀 탑재 차량 첫 인도",
+    "target_date": "2022-03",
+    "actual_date": "2022-03",
+    "delta_months": 0,
+    "status": "achieved"
+  },
+  {
+    "date_announced": "2021-10",
+    "claim": "사이버트럭 출시",
+    "target_date": "2022-12",
+    "actual_date": "2023-11",
+    "delta_months": 11,
+    "status": "achieved"
+  },
+  {
+    "date_announced": "2021-10",
+    "claim": "25,000달러 모델 생산 시작",
+    "target_date": "2023-07",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2022-01",
+    "claim": "2021년 대비 50% 이상 판매량 성장",
+    "target_date": "2022-12",
+    "actual_date": "2022-12",
+    "delta_months": 0,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2022-01",
+    "claim": "2022년 완전자율주행(FSD) 달성",
+    "target_date": "2022-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2022-01",
+    "claim": "2022년 신규 차량 모델 출시 없음",
+    "target_date": "2022-12",
+    "actual_date": "2022-12",
+    "delta_months": 0,
+    "status": "achieved"
+  },
+  {
+    "date_announced": "2022-01",
+    "claim": "2023년 사이버트럭, 세미, 로드스터, 옵티머스 생산을 위한 엔지니어링 완료",
+    "target_date": "2023-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2022-01",
+    "claim": "2022년 말 또는 2023년까지 칩 부족 완화 예상",
+    "target_date": "2023-12",
+    "actual_date": "2023-12",
+    "delta_months": 0,
+    "status": "achieved"
+  },
+  {
+    "date_announced": "2022-04",
+    "claim": "2022년 차량 생산량 2021년 대비 50% 성장",
+    "target_date": "2022-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2022-04",
+    "claim": "2022년 차량 생산량 2021년 대비 60% 성장",
+    "target_date": "2022-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2022-04",
+    "claim": "2022년 차량 생산량 150만대 초과",
+    "target_date": "2022-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2022-04",
+    "claim": "FSD 완전자율주행 2022년 달성",
+    "target_date": "2022-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2022-04",
+    "claim": "4680 배터리 셀 2022년 3분기 말 또는 4분기 양산",
+    "target_date": "2022-12",
+    "actual_date": "2023-03",
+    "delta_months": 3,
+    "status": "achieved"
+  },
+  {
+    "date_announced": "2022-04",
+    "claim": "사이버트럭 2023년 양산 목표",
+    "target_date": "2023-12",
+    "actual_date": "2023-11",
+    "delta_months": -1,
+    "status": "achieved"
+  },
+  {
+    "date_announced": "2022-04",
+    "claim": "로보택시 2024년 양산 목표",
+    "target_date": "2024-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2022-07",
+    "claim": "주당 40,000대 생산 달성",
+    "target_date": "2022-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2022-07",
+    "claim": "북미 모든 고객에게 FSD 베타 출시",
+    "target_date": "2022-12",
+    "actual_date": "2023-01",
+    "delta_months": 1,
+    "status": "achieved"
+  },
+  {
+    "date_announced": "2022-07",
+    "claim": "오스틴 및 베를린 공장 주당 5,000대 생산",
+    "target_date": "2023-01",
+    "actual_date": "2023-06",
+    "delta_months": 5,
+    "status": "achieved"
+  },
+  {
+    "date_announced": "2022-07",
+    "claim": "사이버트럭 인도 시작",
+    "target_date": "2023-06",
+    "actual_date": "2023-11",
+    "delta_months": 5,
+    "status": "achieved"
+  },
+  {
+    "date_announced": "2022-07",
+    "claim": "오스틴 및 베를린 공장 주당 10,000대 생산",
+    "target_date": "2023-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2022-10",
+    "claim": "북미 FSD 베타 광범위 출시",
+    "target_date": "2022-11",
+    "actual_date": "2022-11",
+    "delta_months": 0,
+    "status": "achieved"
+  },
+  {
+    "date_announced": "2022-10",
+    "claim": "첫 번째 테슬라 세미 생산 차량 펩시에 인도",
+    "target_date": "2022-12",
+    "actual_date": "2022-12",
+    "delta_months": 0,
+    "status": "achieved"
+  },
+  {
+    "date_announced": "2022-10",
+    "claim": "사이버트럭 초기 생산",
+    "target_date": "2023-06",
+    "actual_date": "2023-07",
+    "delta_months": 1,
+    "status": "achieved"
+  },
+  {
+    "date_announced": "2022-10",
+    "claim": "2024년 북미 테슬라 세미 5만 대 생산 목표",
+    "target_date": "2024-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2023-01",
+    "claim": "투자자의 날 개최",
+    "target_date": "2023-03",
+    "actual_date": "2023-03",
+    "delta_months": 0,
+    "status": "achieved"
+  },
+  {
+    "date_announced": "2023-01",
+    "claim": "사이버트럭 초기 생산 시작",
+    "target_date": "2023-08",
+    "actual_date": "2023-11",
+    "delta_months": 3,
+    "status": "achieved"
+  },
+  {
+    "date_announced": "2023-01",
+    "claim": "2023년 차량 생산량 200만대 달성",
+    "target_date": "2023-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2023-01",
+    "claim": "4680 배터리 셀 비용 효율적인 생산량 증대",
+    "target_date": "2023-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2023-01",
+    "claim": "도조 슈퍼컴퓨터 운영 배포",
+    "target_date": "2023-12",
+    "actual_date": "2023-12",
+    "delta_months": 0,
+    "status": "achieved"
+  },
+  {
+    "date_announced": "2023-01",
+    "claim": "사이버트럭 의미 있는 수준의 대량 생산",
+    "target_date": "2024-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2023-04",
+    "claim": "코퍼스 크리스티 리튬 정제소 착공",
+    "target_date": "2023-05",
+    "actual_date": "2023-05",
+    "delta_months": 0,
+    "status": "achieved"
+  },
+  {
+    "date_announced": "2023-04",
+    "claim": "사이버트럭 인도 시작",
+    "target_date": "2023-09",
+    "actual_date": "2023-11",
+    "delta_months": 2,
+    "status": "achieved"
+  },
+  {
+    "date_announced": "2023-04",
+    "claim": "FSD 완전자율주행 달성",
+    "target_date": "2023-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2023-04",
+    "claim": "코퍼스 크리스티 리튬 정제소 시운전",
+    "target_date": "2023-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2023-04",
+    "claim": "오스틴 양극재 시설 첫 생산",
+    "target_date": "2023-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2023-07",
+    "claim": "2023년 11월경 테슬라 자체 설계 액추에이터를 갖춘 옵티머스 생산 후보 모델 출시",
+    "target_date": "2023-11",
+    "actual_date": "2023-12",
+    "delta_months": 1,
+    "status": "achieved"
+  },
+  {
+    "date_announced": "2023-07",
+    "claim": "2023년 차량 180만 대 생산 목표",
+    "target_date": "2023-12",
+    "actual_date": "2023-12",
+    "delta_months": 0,
+    "status": "achieved"
+  },
+  {
+    "date_announced": "2023-07",
+    "claim": "2023년 후반 사이버트럭 인도 시작",
+    "target_date": "2023-12",
+    "actual_date": "2023-11",
+    "delta_months": -1,
+    "status": "achieved"
+  },
+  {
+    "date_announced": "2023-07",
+    "claim": "2023년 말까지 FSD가 인간보다 우수해짐",
+    "target_date": "2023-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2023-07",
+    "claim": "2024년 사이버트럭 대량 생산",
+    "target_date": "2024-12",
+    "actual_date": "2024-12",
+    "delta_months": 0,
+    "status": "achieved"
+  },
+  {
+    "date_announced": "2023-07",
+    "claim": "2024년 중 테슬라 공장에서 옵티머스 로봇이 유용한 작업 수행",
+    "target_date": "2024-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2023-07",
+    "claim": "2024년 말까지 도조에 10억 달러 이상 지출",
+    "target_date": "2024-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2023-07",
+    "claim": "2024년 말까지 100 엑사플롭스 규모의 자체 훈련 역량 달성",
+    "target_date": "2024-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2023-10",
+    "claim": "사이버트럭이 상당한 긍정적 현금 흐름 기여자가 되는 시점",
+    "target_date": "2025-04",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2023-10",
+    "claim": "사이버트럭 연간 생산량 약 25만 대 달성",
+    "target_date": "2025-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2024-01",
+    "claim": "차세대 차량 생산 시작",
+    "target_date": "2025-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2024-04",
+    "claim": "로보택시(사이버캡) 공개",
+    "target_date": "2024-08",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2024-04",
+    "claim": "AI 인프라(H100 GPU) 85,000개 설치 및 가동",
+    "target_date": "2024-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2024-04",
+    "claim": "옵티머스 로봇 제한적 생산 시작",
+    "target_date": "2024-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2024-04",
+    "claim": "차세대 모델 생산 시작 (2025년 초 또는 2024년 말로 가속화)",
+    "target_date": "2025-03",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2024-04",
+    "claim": "옵티머스 로봇 외부 판매 시작",
+    "target_date": "2025-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2024-07",
+    "claim": "로보택시 공개",
+    "target_date": "2024-10",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2024-07",
+    "claim": "4680 배터리 건식 양극 생산 시작",
+    "target_date": "2024-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2024-07",
+    "claim": "옵티머스 로봇 생산 버전 1 출시 (내부 사용)",
+    "target_date": "2025-03",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2024-07",
+    "claim": "무인 FSD 가능",
+    "target_date": "2025-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2024-07",
+    "claim": "로드스터 생산 시작",
+    "target_date": "2025-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2024-07",
+    "claim": "공장에 수천 대의 옵티머스 로봇 배치",
+    "target_date": "2025-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2024-07",
+    "claim": "테슬라 AI5 하드웨어 출시",
+    "target_date": "2025-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2024-07",
+    "claim": "옵티머스 로봇 생산 버전 2 외부 고객 판매 시작",
+    "target_date": "2026-06",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "pending"
+  },
+  {
+    "date_announced": "2024-10",
+    "claim": "텍사스에 5만 개 GPU 배포",
+    "target_date": "2024-10",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2024-10",
+    "claim": "2024년 자본 지출 110억 달러 초과",
+    "target_date": "2024-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2024-10",
+    "claim": "상하이 메가팩 공장 가동 및 연간 20GWh 생산 시작",
+    "target_date": "2025-03",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2024-10",
+    "claim": "3만 달러 미만 보급형 차량 출시",
+    "target_date": "2025-06",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2024-10",
+    "claim": "FSD 안전성 인간 운전 능가",
+    "target_date": "2025-06",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2024-10",
+    "claim": "2025년 차량 성장률 20~30% 달성",
+    "target_date": "2025-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2024-10",
+    "claim": "텍사스 및 캘리포니아에서 로보택시 유료 서비스 출시",
+    "target_date": "2025-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2024-10",
+    "claim": "세미트럭 파일럿 생산 시작",
+    "target_date": "2025-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2024-10",
+    "claim": "사이버캡 연간 200만 대 이상 양산",
+    "target_date": "2026-06",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "pending"
+  },
+  {
+    "date_announced": "2024-10",
+    "claim": "세미트럭 본격 양산",
+    "target_date": "2026-06",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "pending"
+  },
+  {
+    "date_announced": "2025-01",
+    "claim": "오스틴에서 무인 FSD 유료 서비스 출시",
+    "target_date": "2025-06",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2025-01",
+    "claim": "옵티머스 생산 버전 2 출시",
+    "target_date": "2025-06",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2025-01",
+    "claim": "캘리포니아 및 전국 여러 지역에서 무인 FSD 출시",
+    "target_date": "2025-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2025-01",
+    "claim": "2025년 FSD 광범위한 확장",
+    "target_date": "2025-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2025-01",
+    "claim": "옵티머스 로봇 약 10,000대 생산 (내부 계획)",
+    "target_date": "2025-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2025-01",
+    "claim": "옵티머스 로봇 수천 대 생산 (예상)",
+    "target_date": "2025-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2025-01",
+    "claim": "옵티머스 외부 판매 시작",
+    "target_date": "2026-07",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "pending"
+  },
+  {
+    "date_announced": "2025-07",
+    "claim": "옵티머스 로봇 프로토타입 공개",
+    "target_date": "2025-10",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2025-07",
+    "claim": "미국 인구의 절반에게 자율주행 차량 호출 서비스 제공",
+    "target_date": "2025-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2025-07",
+    "claim": "2025년 자본 지출 90억 달러 초과",
+    "target_date": "2025-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2025-07",
+    "claim": "옵티머스 로봇 생산 시작",
+    "target_date": "2026-01",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2025-07",
+    "claim": "Dojo 2 및 새로운 AI 공장 생산 시작",
+    "target_date": "2026-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "pending"
+  },
+  {
+    "date_announced": "2025-07",
+    "claim": "월 10만 대 옵티머스 로봇 생산량 달성",
+    "target_date": "2030-07",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "pending"
+  },
+  {
+    "date_announced": "2025-10",
+    "claim": "오스틴 일부 지역에서 안전 운전자 없는 로보택시 운영",
+    "target_date": "2025-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2025-10",
+    "claim": "8~10개 대도시 지역에서 로보택시 운영 (규제 승인 조건)",
+    "target_date": "2025-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2025-10",
+    "claim": "Optimus 생산 의도 프로토타입 공개",
+    "target_date": "2026-03",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2025-10",
+    "claim": "Optimus 백만 대 생산 라인 가동 시작",
+    "target_date": "2026-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "pending"
+  },
+  {
+    "date_announced": "2025-10",
+    "claim": "연간 3백만 대 생산율 달성",
+    "target_date": "2027-10",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "pending"
+  },
+  {
+    "date_announced": "2026-01",
+    "claim": "FSD 완전자율주행 100% 무인 운영 (Austin)",
+    "target_date": "2026-01",
+    "actual_date": "2026-01",
+    "delta_months": 0,
+    "status": "achieved"
+  },
+  {
+    "date_announced": "2026-01",
+    "claim": "Model S 및 X 생산 중단",
+    "target_date": "2026-03",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "delayed"
+  },
+  {
+    "date_announced": "2026-01",
+    "claim": "CyberCab 생산 시작",
+    "target_date": "2026-04",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "pending"
+  },
+  {
+    "date_announced": "2026-01",
+    "claim": "2026년 자본 지출 200억 달러 초과",
+    "target_date": "2026-12",
+    "actual_date": null,
+    "delta_months": null,
+    "status": "pending"
+  }
+]

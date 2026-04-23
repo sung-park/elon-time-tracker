@@ -1,0 +1,16 @@
+Tesla Q1 2021 Earnings Call Transcript
+Date: April 26, 2021
+
+## Model Y Prediction
+Predicted Model Y will be "the best-selling car or truck of any kind in the world" by 2022.
+
+## Model S/X Ramp
+Expected to begin deliveries "probably next month" (May 2021).
+Target high-volume production for Model X by Q3 2021.
+
+## Berlin & Austin Factories
+"We expect to have initial limited production from those factories this year" (2021).
+Plans for "volume production from Texas and Berlin next year" (2022).
+
+## Dojo Supercomputer
+Predicted Dojo will be "probably an order of magnitude more efficient" than GPU solutions.

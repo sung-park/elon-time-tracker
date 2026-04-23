@@ -1,0 +1,17 @@
+Tesla Q3 2023 Earnings Call Transcript
+Date: October 18, 2023
+
+## Elon Musk on Cybertruck Timeline
+Musk emphasized the difficulty of ramping Cybertruck production, stating it will take "a year to 18 months before it is a significant positive cash flow contributor." He projected reaching approximately 250,000 units annually, likely in 2025 rather than 2024.
+
+## Full Self-Driving (FSD) Progress
+Musk noted Tesla has completed a "10,000 GPU cluster of H100s" and highlighted FSD version 12's end-to-end AI approach. He characterized Tesla's AI capability as "by far the world's best when it comes to real-world AI."
+
+## Optimus Robot Development
+When asked about Optimus deployment in factories, Musk declined to discuss specifics but noted the robot's rapid advancement: "a year ago, could barely walk and now it can do yoga."
+
+## Mexico Factory Plans
+Regarding Mexico expansion, Musk stated: "we want to just get a sense for the global economy is like before we go full tilt." He expressed concern about high interest rates affecting vehicle affordability and delayed factory acceleration pending economic clarity.
+
+## Energy Business
+CFO Vaibhav Taneja reported deploying "four gigawatt hours of energy storage products" in Q3, with the Energy division becoming Tesla's highest-margin business.

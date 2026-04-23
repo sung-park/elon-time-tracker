@@ -1,0 +1,25 @@
+Tesla Q1 2024 Earnings Call Transcript
+Date: April 23, 2024
+
+## Elon Musk's Major Announcements
+
+**Next-Generation Vehicles:**
+"We've updated our future vehicle lineup to accelerate the launch of new models ahead, previously mentioned start of production in the second half of 2025. So, we expect it to be more like the early 2025, if not late this year."
+
+**FSD Version 12 Rollout:**
+"We've now turned that on for all cars...around 1.8 million vehicles...over 300 billion miles that have been driven with FSD V12."
+
+**Robotaxi Showcase:**
+"We will be showcasing our purpose-built robotaxi or Cybercab in August."
+
+**AI Infrastructure Expansion:**
+"We've installed and commissioned...roughly 35,000 H100s...we expect that to be probably 85,000 or thereabouts by the end of this year."
+
+**Optimus Robot Timeline:**
+"We do think we will have Optimus in limited production...before the end of this year. And then...we may be able to sell it externally by the end of next year."
+
+**FSD Licensing Discussions:**
+"We're in conversations with one major automaker regarding licensing FSD."
+
+**Broader Vision:**
+Musk emphasized Tesla should be viewed as an AI and robotics company, not merely an automaker, stating autonomous vehicle adoption represents the company's primary value driver.

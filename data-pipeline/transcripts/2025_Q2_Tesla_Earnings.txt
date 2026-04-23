@@ -1,0 +1,24 @@
+Tesla Q2 2025 Earnings Call Transcript
+Date: July 23, 2025
+
+## Robotaxi & Autonomy Timeline
+
+**Elon Musk** outlined aggressive expansion plans: "We will probably have autonomous ride-hailing in probably half the population of the US by the end of the year." The Austin service has already expanded, with plans to launch in Bay Area, Nevada, Arizona, and Florida pending regulatory approval.
+
+**Ashok Elluswamy** reported robotaxis have "more than seven thousand miles operating in the Austin area" with "no notable safety-critical interventions."
+
+## Full Self-Driving (FSD) Adoption
+
+FSD version 12 drove significant gains: "Since we moved to version twelve of FSD, we have seen the adoption rates really increase." **Vaibhav Taneja** noted a "45% increase" in subscriptions and "25% increase in penetration" since FSD 12's release in North America.
+
+## Optimus Robot Production
+
+**Musk** projected: "We will have prototypes of that in about three months, and it's subtooling in production. We will start production on that at the beginning of next year." He targeted reaching "a hundred thousand Optimus robots a month" within five years as achievable.
+
+## Vehicle Delivery Economics
+
+Regarding robotaxi costs, Musk stated the CyberCab has "probably sub-thirty cent per mile potential over time" through optimized design and Optimus maintenance support.
+
+## Infrastructure Investment
+
+CapEx expectations: Management forecasts capital expenditures will "exceed $9 billion for 2025." Dojo two and a new AI factory target production "by the end of next year."

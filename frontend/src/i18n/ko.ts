@@ -1,7 +1,7 @@
 const ko = {
   // Header
-  title: "ELON TIME TRACKER",
-  subtitle: "Tesla 어닝콜 약속 vs 현실 추적기",
+  title: "혀닝콜 탐지기",
+  subtitle: "혀닝콜 탐지기 — Tesla 어닝콜 약속 vs 현실",
   dataRange: "데이터 기준: 2020 Q1 - 2025 Q4 어닝콜",
   tracking: (n: number) => `총 ${n}건 추적 중`,
 
@@ -95,7 +95,7 @@ const ko = {
   elapsedDesc: (target: string) => `목표 시점(${target})으로부터 현재까지 지연 중`,
 
   // Footer
-  footer: "Elon Time Tracker — Tesla 어닝콜 트랜스크립트 기반 분석. 데이터는 공개된 어닝콜 자료에서 추출되었습니다.",
+  footer: "혀닝콜 탐지기 — Tesla 어닝콜 트랜스크립트 기반 분석. 데이터는 공개된 어닝콜 자료에서 추출되었습니다.",
 
   // Categories
   catFSD: "FSD / 자율주행",

@@ -34,7 +34,7 @@ export default function Dashboard() {
           <div className="flex items-center justify-between">
             <div>
               <h1 className="text-2xl font-bold tracking-tight">
-                <span className="text-tesla-red">ELON</span> TIME TRACKER
+                {t.title}
               </h1>
               <p className="text-sm text-muted mt-1">{t.subtitle}</p>
             </div>
